@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josuesov
+- 👋 Hi, I’m Mc. Josué Soto Vega
 - 👀 I’m interested in Embedded System applied a control and managments of energy.
 - 🌱 I’m currently learning ARM microcontrollers.
 - 💞️ I’m looking to collaborate on projects related with electric Vehicles. 
